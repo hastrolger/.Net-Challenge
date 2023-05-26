@@ -1,0 +1,15 @@
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\bin\Debug\net6.0\FirstTimeWithC#Module.exe
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\bin\Debug\net6.0\FirstTimeWithC#Module.deps.json
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\bin\Debug\net6.0\FirstTimeWithC#Module.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\bin\Debug\net6.0\FirstTimeWithC#Module.dll
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\bin\Debug\net6.0\FirstTimeWithC#Module.pdb
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.csproj.AssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.dll
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\refint\FirstTimeWithC#Module.dll
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.pdb
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\FirstTimeWithC#Module.genruntimeconfig.cache
+C:\Users\parra\OneDrive\Documentos\Dev\NetChallange\FirstTimeWithC#Module\obj\Debug\net6.0\ref\FirstTimeWithC#Module.dll
